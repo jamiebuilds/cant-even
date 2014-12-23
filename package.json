@@ -1,0 +1,18 @@
+{
+  "name": "cant-even",
+  "version": "0.1.0",
+  "description": "Because sometimes you literally can’t even.",
+  "license": "MIT",
+  "keywords": "cannot even",
+  "author": "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)",
+  "contributors": [
+    "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)"
+  ],
+  "repository": "jdalton/cant-even",
+  "scripts": { "test": "echo \"Sorry, no tests at the moment.\"" },
+  "engines": ["node"],
+  "files": [
+    "LICENSE.txt",
+    "index.js"
+  ]
+}
