@@ -10,9 +10,7 @@
   ],
   "repository": "jdalton/cant-even",
   "scripts": { "test": "echo \"Sorry, no tests at the moment.\"" },
-  "engines": ["node"],
   "files": [
-    "LICENSE.txt",
     "index.js"
   ]
 }
