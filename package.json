@@ -9,8 +9,19 @@
     "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)"
   ],
   "repository": "jdalton/cant-even",
-  "scripts": { "test": "echo \"Sorry, no tests at the moment.\"" },
+  "scripts": {
+    "test": "echo \"Sorry, no tests at the moment.\""
+  },
   "files": [
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "build": "coffee -c index.coffee"
+  }
 }
